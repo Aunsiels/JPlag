@@ -66,6 +66,11 @@
         </dependency>
         <dependency>
             <groupId>de.jplag</groupId>
+            <artifactId>php</artifactId>
+            <version>${revision}</version>
+        </dependency>
+        <dependency>
+            <groupId>de.jplag</groupId>
             <artifactId>rlang</artifactId>
             <version>${revision}</version>
         </dependency>
